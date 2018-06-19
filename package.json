@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "projj",
   "main": "index.js",
-  "author": "vladut",
+  "author": "vladmarian",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^8.2.0",
